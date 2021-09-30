@@ -1,0 +1,232 @@
+05-27-2020 @ 11:23:56 - Creating Instamojo Order for order id: 784
+05-27-2020 @ 11:23:56 - Client ID: ZF79xxxxxxxxxx | Client Secret: GHzjxxxxxxxxxx | Testmode:  
+05-27-2020 @ 11:23:57 - Data sent for creating order Array
+(
+    [name] => demo demo
+    [email] => jayrathore.in@gmail.com
+    [phone] => 7074833525
+    [amount] => 650
+    [currency] => INR
+    [redirect_url] => https://evergreensolar.co.in
+    [transaction_id] => 1590578637-784
+)
+
+05-27-2020 @ 11:23:58 - Response from server on creating orderstdClass Object
+(
+    [order] => stdClass Object
+        (
+            [id] => d85d0ff6a10e4e54921f5e0b0e3319ac
+            [transaction_id] => 1590578637-784
+            [status] => pending
+            [currency] => INR
+            [amount] => 650.00
+            [name] => demo demo
+            [email] => jayrathore.in@gmail.com
+            [phone] => +917074833525
+            [description] => Instapay
+            [redirect_url] => https://evergreensolar.co.in
+            [webhook_url] => 
+            [created_at] => 2020-05-27T11:23:58.240110Z
+            [resource_uri] => http://apiapp.private.instamojo.com/v2/gateway/orders/id:d85d0ff6a10e4e54921f5e0b0e3319ac/
+            [customer_id] => 
+        )
+
+    [payment_options] => stdClass Object
+        (
+            [payment_url] => https://www.instamojo.com/@evergreensolar/d85d0ff6a10e4e54921f5e0b0e3319ac?embed=form
+        )
+
+)
+
+05-27-2020 @ 13:38:07 - Creating Instamojo Order for order id: 792
+05-27-2020 @ 13:38:07 - Client ID: ZF79xxxxxxxxxx | Client Secret: GHzjxxxxxxxxxx | Testmode:  
+05-27-2020 @ 13:38:08 - Data sent for creating order Array
+(
+    [name] => suva karmakar
+    [email] => www.suvakarmakar@gmail.com
+    [phone] => +917074833525
+    [amount] => 10
+    [currency] => INR
+    [redirect_url] => https://evergreensolar.co.in
+    [transaction_id] => 1590586688-792
+)
+
+05-27-2020 @ 13:38:09 - Response from server on creating orderstdClass Object
+(
+    [order] => stdClass Object
+        (
+            [id] => bf52409dea2249e6842d0c2990f37a88
+            [transaction_id] => 1590586688-792
+            [status] => pending
+            [currency] => INR
+            [amount] => 10.00
+            [name] => suva karmakar
+            [email] => www.suvakarmakar@gmail.com
+            [phone] => +917074833525
+            [description] => Instapay
+            [redirect_url] => https://evergreensolar.co.in
+            [webhook_url] => 
+            [created_at] => 2020-05-27T13:38:09.310708Z
+            [resource_uri] => http://apiapp.private.instamojo.com/v2/gateway/orders/id:bf52409dea2249e6842d0c2990f37a88/
+            [customer_id] => 
+        )
+
+    [payment_options] => stdClass Object
+        (
+            [payment_url] => https://www.instamojo.com/@evergreensolar/bf52409dea2249e6842d0c2990f37a88?embed=form
+        )
+
+)
+
+05-27-2020 @ 13:40:46 - Callback Called with payment ID: MOJO0527P05D90560233 and payment req id: bf52409dea2249e6842d0c2990f37a88
+05-27-2020 @ 13:40:46 - Client ID: ZF79xxxxxxxxxx | Client Secret: GHzjxxxxxxxxxx | Testmode:  
+05-27-2020 @ 13:40:48 - Response from server: stdClass Object
+(
+    [id] => bf52409dea2249e6842d0c2990f37a88
+    [transaction_id] => 1590586688-792
+    [status] => completed
+    [currency] => INR
+    [amount] => 10.00
+    [name] => suva karmakar
+    [email] => www.suvakarmakar@gmail.com
+    [phone] => +917074833525
+    [description] => Instapay
+    [redirect_url] => https://evergreensolar.co.in
+    [webhook_url] => 
+    [created_at] => 2020-05-27T13:38:09.310708Z
+    [payments] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => MOJO0527P05D90560233
+                    [status] => successful
+                    [instrument_type] => UPI
+                    [billing_instrument] => UPI
+                    [failure] => 
+                )
+
+        )
+
+    [resource_uri] => http://apiapp.private.instamojo.com/v2/gateway/orders/id:bf52409dea2249e6842d0c2990f37a88/
+    [customer_id] => 
+)
+
+05-27-2020 @ 13:40:48 - Payment status for MOJO0527P05D90560233 is successful
+05-27-2020 @ 13:40:48 - Extracted order id from trasaction_id: 792
+05-27-2020 @ 13:40:48 - Payment for MOJO0527P05D90560233 was credited.
+05-27-2020 @ 13:46:59 - Creating Instamojo Order for order id: 793
+05-27-2020 @ 13:46:59 - Client ID: ZF79xxxxxxxxxx | Client Secret: GHzjxxxxxxxxxx | Testmode:  
+05-27-2020 @ 13:46:59 - Data sent for creating order Array
+(
+    [name] => suva karmakar
+    [email] => www.suvakarmakar@gmail.com
+    [phone] => +917074833525
+    [amount] => 650
+    [currency] => INR
+    [redirect_url] => https://evergreensolar.co.in
+    [transaction_id] => 1590587219-793
+)
+
+05-27-2020 @ 13:46:59 - Response from server on creating orderstdClass Object
+(
+    [order] => stdClass Object
+        (
+            [id] => 69341156c5764d91957708cd35cc82e3
+            [transaction_id] => 1590587219-793
+            [status] => pending
+            [currency] => INR
+            [amount] => 650.00
+            [name] => suva karmakar
+            [email] => www.suvakarmakar@gmail.com
+            [phone] => +917074833525
+            [description] => Instapay
+            [redirect_url] => https://evergreensolar.co.in
+            [webhook_url] => 
+            [created_at] => 2020-05-27T13:46:59.979879Z
+            [resource_uri] => http://apiapp.private.instamojo.com/v2/gateway/orders/id:69341156c5764d91957708cd35cc82e3/
+            [customer_id] => 
+        )
+
+    [payment_options] => stdClass Object
+        (
+            [payment_url] => https://www.instamojo.com/@evergreensolar/69341156c5764d91957708cd35cc82e3?embed=form
+        )
+
+)
+
+05-27-2020 @ 20:24:34 - Creating Instamojo Order for order id: 797
+05-27-2020 @ 20:24:34 - Client ID: ZF79xxxxxxxxxx | Client Secret: GHzjxxxxxxxxxx | Testmode:  
+05-27-2020 @ 20:24:34 - Data sent for creating order Array
+(
+    [name] => Raju Bose
+    [email] => rajubose.isas@gmail.com
+    [phone] => 9339470435
+    [amount] => 10
+    [currency] => INR
+    [redirect_url] => https://evergreensolar.co.in
+    [transaction_id] => 1590611074-797
+)
+
+05-27-2020 @ 20:24:35 - Response from server on creating orderstdClass Object
+(
+    [order] => stdClass Object
+        (
+            [id] => b92c9cf1d4a749ba85787fdfcb953db0
+            [transaction_id] => 1590611074-797
+            [status] => pending
+            [currency] => INR
+            [amount] => 10.00
+            [name] => Raju Bose
+            [email] => rajubose.isas@gmail.com
+            [phone] => +919339470435
+            [description] => Instapay
+            [redirect_url] => https://evergreensolar.co.in
+            [webhook_url] => 
+            [created_at] => 2020-05-27T20:24:35.593010Z
+            [resource_uri] => http://apiapp.private.instamojo.com/v2/gateway/orders/id:b92c9cf1d4a749ba85787fdfcb953db0/
+            [customer_id] => 
+        )
+
+    [payment_options] => stdClass Object
+        (
+            [payment_url] => https://www.instamojo.com/@evergreensolar/b92c9cf1d4a749ba85787fdfcb953db0?embed=form
+        )
+
+)
+
+05-27-2020 @ 20:27:41 - Callback Called with payment ID: MOJO0527405D90574276 and payment req id: b92c9cf1d4a749ba85787fdfcb953db0
+05-27-2020 @ 20:27:41 - Client ID: ZF79xxxxxxxxxx | Client Secret: GHzjxxxxxxxxxx | Testmode:  
+05-27-2020 @ 20:27:42 - Response from server: stdClass Object
+(
+    [id] => b92c9cf1d4a749ba85787fdfcb953db0
+    [transaction_id] => 1590611074-797
+    [status] => completed
+    [currency] => INR
+    [amount] => 10.00
+    [name] => Raju Bose
+    [email] => rajubose.isas@gmail.com
+    [phone] => +919339470435
+    [description] => Instapay
+    [redirect_url] => https://evergreensolar.co.in
+    [webhook_url] => 
+    [created_at] => 2020-05-27T20:24:35.593010Z
+    [payments] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => MOJO0527405D90574276
+                    [status] => successful
+                    [instrument_type] => UPI
+                    [billing_instrument] => UPI
+                    [failure] => 
+                )
+
+        )
+
+    [resource_uri] => http://apiapp.private.instamojo.com/v2/gateway/orders/id:b92c9cf1d4a749ba85787fdfcb953db0/
+    [customer_id] => 
+)
+
+05-27-2020 @ 20:27:42 - Payment status for MOJO0527405D90574276 is successful
+05-27-2020 @ 20:27:42 - Extracted order id from trasaction_id: 797
+05-27-2020 @ 20:27:42 - Payment for MOJO0527405D90574276 was credited.

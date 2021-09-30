@@ -1,0 +1,6 @@
+0000.000 (0) Opened log file at time: Sat, 29 Aug 2020 22:18:18 +0000 on https://evergreensolar.co.in
+0000.002 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.26 WP: 5.5 PHP: 7.2.33 (fpm-fcgi, Linux ssd.lncloud.in 3.10.0-1127.13.1.el7.x86_64 #1 SMP Tue Jun 23 15:46:38 UTC 2020 x86_64) MySQL: 5.7.31 WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 56.8M | 58.5M) multisite: N openssl: OpenSSL 1.1.1g  21 Apr 2020 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.072 (0) Free space on disk containing Updraft's temporary directory: 45609.3 MB
+0000.074 (0) Tasks: Backup files: 1 (schedule: daily) Backup DB:  (schedule: daily)
+0000.079 (0) Processed schedules. Combining jobs from identical schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.081 (0) Scheduled backup aborted - another backup of this type was apparently invoked by the WordPress scheduler only 67 seconds ago - the WordPress scheduler invoking events multiple times usually indicates a very overloaded server (or other plugins that mis-use the scheduler)

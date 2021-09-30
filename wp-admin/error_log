@@ -1,0 +1,4 @@
+[25-Sep-2021 13:35:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/egnrecom/evergreensolar.co.in/wp-content/plugins/elementor-pro/modules/forms/fields/upload.php on line 137
+[25-Sep-2021 13:35:14 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/egnrecom/evergreensolar.co.in/wp-content/plugins/elementor-pro/modules/forms/fields/upload.php on line 253
+[25-Sep-2021 13:35:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/egnrecom/evergreensolar.co.in/wp-content/plugins/elementor-pro/modules/forms/fields/upload.php on line 265
+[25-Sep-2021 13:35:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/egnrecom/evergreensolar.co.in/wp-content/plugins/elementor-pro/modules/forms/fields/upload.php on line 416
